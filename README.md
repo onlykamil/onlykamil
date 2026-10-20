@@ -1,6 +1,6 @@
 # Kamil Nuru Hassen
 
-### Software Engineer | AI Solutions | Systems Integration | Forward Deployed Engineering
+### Software Engineer | AI Solutions | Systems Integration | Forward Deployed Engineer
 
 I build practical software systems that solve real business problems.
 
