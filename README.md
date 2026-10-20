@@ -1,12 +1,16 @@
 # Kamil Nuru Hassen
 
-### Software Engineer | AI Solutions | Systems Integration | Forward Deployed Engineer
+### Software Engineer | AI/ML Solutions | Systems Integration | Forward Deployed Engineer
 
 I build practical software systems that solve real business problems.
 
-My background spans software engineering, information systems, technical consulting, and AI-enabled applications. I work at the intersection of business requirements and technology—understanding operational problems, designing solutions, integrating systems, and delivering software that people can use.
+Software engineer and information systems professional with 19+ years of experience in software development, business systems, technical consulting, and applied AI/ML.
 
-My current focus is advancing my AI engineering capabilities, particularly reliable LLM applications, tool integration, evaluation, and production deployment.
+My AI journey began with automatic Amharic text summarization using machine learning in 2005 and continued with M-Idol, an ML-based vocal performance assessment project that won a regional WSA-Mobile award in 2010.
+
+Today, I build practical AI-enabled applications and business solutions, combining software engineering, systems integration, and an understanding of real-world operational needs. My work includes AI-powered customer interaction, personalized learning, and enterprise information systems.
+
+I am currently deepening my focus on modern AI engineering, LLM applications, tool-enabled workflows, and production-ready AI systems, with a particular interest in Forward Deployed Engineering (FDE).
 
 **My approach:** Understand the problem. Build the solution. Integrate it into the workflow. Validate that it works.
 
