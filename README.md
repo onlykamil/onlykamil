@@ -116,10 +116,10 @@ I bring a software and information systems background, experience with commercia
 
 ---
 
-**Portfolio and demonstrations:** [Add your portfolio website URL]
+**Portfolio and demonstrations:** https://aicard.business-folio.com/onlykamil-68a1f
 
-**LinkedIn:** [Add your LinkedIn profile URL]
+**LinkedIn:** https://linkedin.com/in/kamilnuru
 
-**GitHub:** [Add your GitHub profile URL]
+**GitHub:** https://github.com/onlykamil
 
 *Commercial solutions remain proprietary. Public demonstrations and technical materials are shared only where authorized and without confidential customer information.*
